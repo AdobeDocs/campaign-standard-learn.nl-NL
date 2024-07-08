@@ -11,20 +11,20 @@ team: TM
 hidefromtoc: false
 exl-id: 9bc5e4e6-c943-40ca-9d99-a3fa802775f4
 source-git-commit: cfa097e1ea0d5ca8c97c1062ea8717c37a51530d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '89'
-ht-degree: 62%
+ht-degree: 100%
 
 ---
 
 # Triggers gebruiken voor transactieberichten - overzicht
 
-In de volgende leerprogramma&#39;s, leert u hoe te om trekkers voor transactioneel overseinen te vormen en te gebruiken.
+In de volgende tutorials leert u hoe u triggers configureert en gebruikt voor transactieberichten.
 
 Voordat u een trigger in een transactieberichten kunt gebruiken, moet u het volgende doen:
 
 1. [Adobe Experience Platform-dataverzameling configureren voor triggers](/help/integrations/configure-launch-for-triggers.md)
-2. [Een trigger in Experience Cloud maken](https://experienceleague.adobe.com/en/docs/core-services/interface/triggers)
+2. [Een trigger in Experience Cloud maken](https://experienceleague.adobe.com/nl/docs/core-services/interface/triggers)
 3. [Een triggergebeurtenis maken in Campaign Standard](/help/integrations/create-a-trigger-event.md)
 
-Zodra de trekker is gevormd, staat het u toe om [vorm transactionele berichten gebruikend gebeurtenisgegevens in real time](/help/integrations/configure-transactional-messages-using-realtime-event-data.md).
+Zodra de trigger is geconfigureerd, kunt u [transactieberichten configureren waarbij gebruik wordt gemaakt van gegevens van realtimegebeurtenissen](/help/integrations/configure-transactional-messages-using-realtime-event-data.md).

@@ -4,7 +4,7 @@ user-guide-description: Video's en tutorials voor Adobe Campaign Standard.
 breadcrumb-title: Campaign Standard-tutorials
 auto-video-transcripts: true
 source-git-commit: 659a9de22dc7e160d0e484fed9aa5fcdcb7d1405
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '517'
 ht-degree: 100%
 
