@@ -59,7 +59,7 @@ Als uw app met Firebase is geïntegreerd, ontvangt u een bericht zoals hieronder
 
 ![[!DNL fcm-successfull]](assets/android-firebase-success.PNG)
 
-[Zorg ervoor dat uw project wordt vermeld in [!DNL Firebase ]console](https://console.firebase.google.com/)
+[Zorg ervoor dat uw project wordt vermeld in [!DNL Firebase &#x200B;]console](https://console.firebase.google.com/)
 
 ## Configureren [!UICONTROL Push Channel] Instellingen
 

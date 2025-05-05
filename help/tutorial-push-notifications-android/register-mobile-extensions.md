@@ -70,6 +70,6 @@ try{
 }
 ```
 
-Regel 32 u moet uw verstrekken[!UICONTROL  Launch] Omgevingsbestand-id van eigenschap. Dit is toegankelijk via de [!UICONTROL environment tab] van uw [!UICONTROL Launch] eigenschap.
+Regel 32 u moet uw verstrekken[!UICONTROL &#x200B; Launch] Omgevingsbestand-id van eigenschap. Dit is toegankelijk via de [!UICONTROL environment tab] van uw [!UICONTROL Launch] eigenschap.
 
 ![launch-id](assets/launch-id-property.PNG)
