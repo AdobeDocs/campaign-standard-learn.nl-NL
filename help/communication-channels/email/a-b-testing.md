@@ -25,4 +25,4 @@ Leer hoe u een A/B-test configureert en verzendt om de onderwerpregel van een e-
 
 >[!VIDEO](https://video.tv.adobe.com/v/18480?learn=on){transcript=true}
 
-Zie de [productdocumentatie](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/designing-an-a-b-test-email.html) voor meer informatie over het testen van de inhoud of de afzender.
+Zie de [productdocumentatie](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/designing-an-a-b-test-email.html?lang=nl-NL) voor meer informatie over het testen van de inhoud of de afzender.

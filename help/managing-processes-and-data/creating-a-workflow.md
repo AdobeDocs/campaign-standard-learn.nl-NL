@@ -30,4 +30,4 @@ In deze video ziet u hoe u een workflow in Adobe Campaign Standard kunt maken en
 
 >[!VIDEO](https://video.tv.adobe.com/v/23937?learn=on){transcript=true}
 
-Zie de productdocumentatie voor meer informatie over [Een workflow maken (documentatie)](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/building-a-workflow.html)
+Zie de productdocumentatie voor meer informatie over [Een workflow maken (documentatie)](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/building-a-workflow.html?lang=nl-NL)

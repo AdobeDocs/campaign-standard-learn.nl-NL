@@ -31,4 +31,4 @@ Voor de e-mailontwerper is specifieke codering vereist. Deze moet worden toegepa
 
 U vindt de gedetailleerde documentatie onder de volgende koppeling:
 
-[HTML-inhoud converteren naar een e-mailDesigner-sjabloon](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/building-email-content/using-existing-content.html?lang=en)
+[HTML-inhoud converteren naar een e-mailDesigner-sjabloon](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/building-email-content/using-existing-content.html?lang=nl-NL)

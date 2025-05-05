@@ -28,4 +28,4 @@ Om te creëren [!UICONTROL fatigue rules], moet u een maximumaantal berichten pe
 
 ## Aanvullende bronnen
 
-* [Vermoeidheidsregels (documentatie)](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/working-with-typology-rules/fatigue-rules.html)
+* [Vermoeidheidsregels (documentatie)](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/working-with-typology-rules/fatigue-rules.html?lang=nl-NL)

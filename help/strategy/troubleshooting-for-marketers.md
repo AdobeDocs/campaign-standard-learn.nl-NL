@@ -58,7 +58,7 @@ Raadpleeg de schermafbeelding voor afstemmingsactiviteiten, zoals hieronder word
 
 ![ werkschema met verzoeningsdetail ](/help/assets/kt-13256/del-persn-error-wf-solution.png)
 
-Leer meer over [ verzoening ](https://experienceleague.adobe.com/en/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation).
+Leer meer over [ verzoening ](https://experienceleague.adobe.com/nl/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation).
 
 ## Gegevensfout algemeen veld
 

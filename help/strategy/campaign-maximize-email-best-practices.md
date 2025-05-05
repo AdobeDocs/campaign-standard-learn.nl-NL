@@ -140,4 +140,4 @@ Verdeel dit proces in twee aandachtsgebieden: a) e-mailverzendpatronen en b) de 
 
 Voor een overzicht van dit artikel en een live demo over het implementeren van strategieën voor herbetrokkenheid, bekijkt u onze [webinar](https://adobecustomersuccess.adobeconnect.com/pm8goho13xuy/).
 
-Meer informatie over strategie en leiderschap bij de [Klant geslaagd](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html) hub.
+Meer informatie over strategie en leiderschap bij de [Klant geslaagd](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html?lang=nl-NL) hub.

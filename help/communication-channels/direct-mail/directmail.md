@@ -31,4 +31,4 @@ Het kanaal is beschikbaar bij de homepage en binnen de werkschemamening om samen
 
 ![Workflowafbeelding](/help/assets/direct_mail_examplewf.png)
 
-Raadpleeg de productdocumentatie voor meer informatie [over Direct Mail](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/direct-mail/about-direct-mail.html)
+Raadpleeg de productdocumentatie voor meer informatie [over Direct Mail](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/direct-mail/about-direct-mail.html?lang=nl-NL)

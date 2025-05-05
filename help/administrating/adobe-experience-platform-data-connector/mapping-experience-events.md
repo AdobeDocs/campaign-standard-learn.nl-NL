@@ -31,5 +31,5 @@ Leer hoe u een kaart kunt toewijzen [!UICONTROL Experience Events] in Adobe Expe
 
 ## Aanvullende bronnen
 
-* [Toewijzingsdefinitie](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html)
-* [Toewijzingsactivering](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-activation.html)
+* [Toewijzingsdefinitie](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html?lang=nl-NL)
+* [Toewijzingsactivering](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-activation.html?lang=nl-NL)

@@ -29,4 +29,4 @@ Leer hoe u zaadgegevens en testprofielen toewijst aan de Adobe Experience Platfo
 
 >[!VIDEO](https://video.tv.adobe.com/v/27264?learn=on){transcript=true}
 
-Zie de productdocumentatie voor meer informatie over de [toewijzingsdefinitie](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html) en de [toewijzingsactivering](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-activation.html)
+Zie de productdocumentatie voor meer informatie over de [toewijzingsdefinitie](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html?lang=nl-NL) en de [toewijzingsactivering](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-activation.html?lang=nl-NL)

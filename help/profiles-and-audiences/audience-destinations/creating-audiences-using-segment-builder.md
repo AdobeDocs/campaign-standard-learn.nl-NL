@@ -27,7 +27,7 @@ ht-degree: 9%
 >
 >Neem contact op met [!UICONTROL Adobe Customer Support] als u van plan bent om dit vermogen uit te voeren.
 
-Met Adobe Campaign Standard kunt u een publiek maken met behulp van gegevens uit de Adobe Experience Cloud [Klantprofiel in realtime](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en) door de Adobe Experience Platform te gebruiken [!UICONTROL Unified Segment Builder].
+Met Adobe Campaign Standard kunt u een publiek maken met behulp van gegevens uit de Adobe Experience Cloud [Klantprofiel in realtime](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=nl-NL) door de Adobe Experience Platform te gebruiken [!UICONTROL Unified Segment Builder].
 
 U hebt toegang tot [!UICONTROL Unified Segment Builder] rechtstreeks in Adobe Campaign Standard via [!UICONTROL Audiences] -module. Hiermee kunt u deze soorten publiek rechtstreeks beheren in het dialoogvenster [!UICONTROL Audiences] lijstweergave, waar u een Adobe Experience Platform-publiek rechtstreeks vanuit de Adobe Campaign-interface kunt bewerken of maken
 

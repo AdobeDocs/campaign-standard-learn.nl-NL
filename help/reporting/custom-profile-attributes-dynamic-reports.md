@@ -27,4 +27,4 @@ In deze video wordt uitgelegd hoe u een rapport kunt maken op basis van aangepas
 
 ## Aanvullende bronnen
 
-* [Informatie over rapportage](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=en)
+* [Informatie over rapportage](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=nl-NL)

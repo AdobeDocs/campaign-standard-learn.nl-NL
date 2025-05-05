@@ -32,5 +32,5 @@ Als alles goed gaat, ziet u een melding in uw Android™-app die in de emulator 
 
 ## Aanvullende bronnen
 
-* [Gedetailleerde documentatie over pushmeldingen](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/push-notifications/about-push-notifications.html?lang=en)
+* [Gedetailleerde documentatie over pushmeldingen](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/push-notifications/about-push-notifications.html?lang=nl-NL)
 * [Een pushmelding maken (video)](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)

@@ -21,4 +21,4 @@ Leer hoe u aangepaste bronnen kunt vullen met gegevens van een [!DNL CSV] bestan
 
 >[!VIDEO](https://video.tv.adobe.com/v/27714?learn=on){transcript=true}
 
-Voor meer informatie over hoe te om douanemiddelen door te bevolken [!DNL API], raadpleeg de documentatie: [Interactie met aangepaste bronnen](https://experienceleague.adobe.com/docs/campaign-standard/using/working-with-apis/interacting-with-custom-resources.html).
+Voor meer informatie over hoe te om douanemiddelen door te bevolken [!DNL API], raadpleeg de documentatie: [Interactie met aangepaste bronnen](https://experienceleague.adobe.com/docs/campaign-standard/using/working-with-apis/interacting-with-custom-resources.html?lang=nl-NL).

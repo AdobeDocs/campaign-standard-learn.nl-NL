@@ -30,7 +30,7 @@ ht-degree: 6%
 >Uitstrekken tot [!UICONTROL Adobe Customer Support] als u van plan bent om dit vermogen uit te voeren.
 >
 
-Met de module Soorten publiek in Adobe Campaign Standard kunt u segmenten maken met behulp van gegevens uit Adobe Experience Platform [[!DNL Real-Time Customer Profile]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en).
+Met de module Soorten publiek in Adobe Campaign Standard kunt u segmenten maken met behulp van gegevens uit Adobe Experience Platform [[!DNL Real-Time Customer Profile]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=nl-NL).
 
 De volgende videozelfstudies begeleiden u door de verschillende stappen:
 

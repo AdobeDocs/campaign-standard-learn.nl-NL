@@ -33,4 +33,4 @@ In deze video wordt uitgelegd hoe u de [!UICONTROL Data Services Query Audience]
 
 *Een Adobe Experience Platform-publiek activeren in een workflow (20:37 min)*
 
-Zie de productdocumentatie over hoe u [Adobe Experience Platform-publiek in campagne](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/aep-sources-destinations/ingest-aep-data.html)
+Zie de productdocumentatie over hoe u [Adobe Experience Platform-publiek in campagne](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/aep-sources-destinations/ingest-aep-data.html?lang=nl-NL)

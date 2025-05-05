@@ -23,4 +23,4 @@ In deze video ziet u hoe een bestaande e-mail, SMS-levering of een leveringssjab
 
 >[!VIDEO](https://video.tv.adobe.com/v/23251?learn=on){transcript=true}
 
-Zie de productdocumentatie voor meer informatie over [meertalige e-mail maken](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/creating-a-multilingual-email.html?lang=en)
+Zie de productdocumentatie voor meer informatie over [meertalige e-mail maken](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/creating-a-multilingual-email.html?lang=nl-NL)

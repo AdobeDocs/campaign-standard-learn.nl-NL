@@ -28,4 +28,4 @@ In de onderstaande video&#39;s ziet u de stappen die nodig zijn om een mobiele a
 
 >[!NOTE]
 >
->Zie [Uw toepassing configureren in [!UICONTROL Launch]](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/configuring-a-mobile-application.html?lang=en) voor de gedetailleerde documentatie en de codesjablonen die in de video worden gebruikt.
+>Zie [Uw toepassing configureren in [!UICONTROL Launch]](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/configuring-a-mobile-application.html?lang=nl-NL) voor de gedetailleerde documentatie en de codesjablonen die in de video worden gebruikt.
