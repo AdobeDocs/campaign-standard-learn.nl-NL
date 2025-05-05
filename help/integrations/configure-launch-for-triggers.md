@@ -26,4 +26,4 @@ Leer hoe u Adobe Experience Platform-dataverzameling kunt gebruiken en de vereis
 >
 > Houd er rekening mee dat Launch nu de functie Tags van Adobe Experience Platform is. Dit kunt u vinden onder **Adobe Experience Platform-dataverzamelingen**.
 
->[!VIDEO](https://video.tv.adobe.com/v/332908?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3454022?learn=on&captions=dut){transcript=true}

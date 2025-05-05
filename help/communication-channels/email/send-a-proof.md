@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Leer hoe u een e-mailbericht test voordat u het naar de uiteindelijke ontvangers verzendt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416038/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446221/?learn=on&captions=dut){transcript=true}

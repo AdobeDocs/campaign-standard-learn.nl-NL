@@ -23,4 +23,4 @@ ht-degree: 100%
 
 Leer hoe u triggers configureert in de Experience Cloud.
 
->[!VIDEO](https://video.tv.adobe.com/v/332624?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446144?learn=on&captions=dut){transcript=true}

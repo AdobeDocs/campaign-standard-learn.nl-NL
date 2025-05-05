@@ -22,4 +22,4 @@ ht-degree: 100%
 
 Leer hoe u transactieberichten configureert gebeurtenisgegevens van realtimetriggers.
 
->[!VIDEO](https://video.tv.adobe.com/v/332602?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3450208?learn=on&captions=dut){transcript=true}

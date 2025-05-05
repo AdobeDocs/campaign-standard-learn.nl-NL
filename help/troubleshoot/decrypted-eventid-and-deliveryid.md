@@ -17,4 +17,4 @@ ht-degree: 100%
 
 Leer hoe u een gedecodeerde event-ID en een leverings-ID in Campaign Standard ophaalt.
 
->[!VIDEO](https://video.tv.adobe.com/v/335989?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437893?learn=on&captions=dut){transcript=true}

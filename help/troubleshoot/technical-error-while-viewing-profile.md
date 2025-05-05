@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Leer hoe u een technische fout kunt oplossen die optreedt bij het weergeven van een profiel in Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/335890?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3436602?learn=on&captions=dut){transcript=true}

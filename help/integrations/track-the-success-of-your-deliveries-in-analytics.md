@@ -22,6 +22,6 @@ ht-degree: 100%
 
 Leer hoe u de integratie van Campaign Standard en Analytics configureert. Begrijp hoe u een rapport in Analytics bouwt met het gebruik van gegevens die van Campaign Standard worden ontvangen en welke KPI&#39;s beschikbaar zijn.
 
->[!VIDEO](https://video.tv.adobe.com/v/332576/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449046/?learn=on&captions=dut){transcript=true}
 
 Raadpleeg de Adobe Analytics-producthandleiding voor meer informatie over [Het begrijpen en maken van Report Suites](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=nl#intro-to-analytics).

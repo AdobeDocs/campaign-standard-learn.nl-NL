@@ -22,4 +22,4 @@ ht-degree: 100%
 
 Leer hoe u een triggergebeurtenis maakt in Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/332625?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446415?learn=on&captions=dut){transcript=true}
