@@ -33,4 +33,4 @@ In deze video wordt uitgelegd hoe u [!UICONTROL Data Services Query Audience] in
 
 *activeer een publiek van Adobe Experience Platform in een werkschema (02 :37 min)*
 
-Zie de productdocumentatie op hoe te [ het publiek van Adobe Experience Platform in Campagne innemen ](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/aep-sources-destinations/ingest-aep-data.html)
+Zie de productdocumentatie op hoe te [&#x200B; het publiek van Adobe Experience Platform in Campagne innemen &#x200B;](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/aep-sources-destinations/ingest-aep-data.html)
