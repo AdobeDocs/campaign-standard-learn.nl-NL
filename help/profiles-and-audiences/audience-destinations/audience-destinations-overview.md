@@ -12,10 +12,10 @@ level: Beginner, Intermediate, Experienced
 recommendations: noDisplay
 hide: true
 hidefromtoc: true
-source-git-commit: ecd7ab2e03c38d17f2690161e19120d884c89993
+source-git-commit: 6ed6364db3a488a5bf092da155e5c257e5b42348
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 6%
+source-wordcount: '131'
+ht-degree: 0%
 
 ---
 
@@ -27,13 +27,13 @@ ht-degree: 6%
 >
 >Deze mogelijkheid is in bèta beschikbaar en kan regelmatig worden bijgewerkt en gewijzigd zonder voorafgaande kennisgeving. [!UICONTROL Audience Destinations] is gebaseerd op Adobe Experience Platform en vereist een specifieke configuratie.
 >
->Uitstrekken tot [!UICONTROL Adobe Customer Support] als u van plan bent om dit vermogen uit te voeren.
+>Bereik [!UICONTROL Adobe Customer Support] als u deze mogelijkheid wilt implementeren.
 >
 
-Met de module Soorten publiek in Adobe Campaign Standard kunt u segmenten maken met behulp van gegevens uit Adobe Experience Platform [[!DNL Real-Time Customer Profile]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=nl-NL).
+Met de module Soorten publiek in Adobe Campaign Standard kunt u segmenten maken met behulp van gegevens uit Adobe Experience Platform [[!DNL Real-Time Customer Profile] ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en) .
 
 De volgende videozelfstudies begeleiden u door de verschillende stappen:
 
-1. [Een nieuwe doelgroep maken met de uniforme segmentbouwer](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
-2. [Experience Platforms in een marketingworkflow activeren](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
+1. [Creeer een publiek gebruikend de Verenigde Bouwer van het Segment](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+2. [Experience Platform-publiek activeren in een marketingworkflow](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
 3. [Wijzig de doeldimensie van een levering voor een publiek Platform](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
