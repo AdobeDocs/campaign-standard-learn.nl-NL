@@ -27,7 +27,7 @@ ht-degree: 0%
 >
 >Neem contact op met [!UICONTROL Adobe Customer Support] als u deze functie wilt implementeren.
 
-Adobe Campaign Standard staat u toe om publiek te bouwen gebruikend gegevens van Adobe Experience Cloud [&#x200B; Real-Time Profiel van de Klant &#x200B;](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en) door Adobe Experience Platform [!UICONTROL Unified Segment Builder] te gebruiken.
+Adobe Campaign Standard staat u toe om publiek te bouwen gebruikend gegevens van Adobe Experience Cloud [&#x200B; Real-Time Profiel van de Klant &#x200B;](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=nl-NL) door Adobe Experience Platform [!UICONTROL Unified Segment Builder] te gebruiken.
 
 U hebt rechtstreeks via de module [!UICONTROL Audiences] toegang tot [!UICONTROL Unified Segment Builder] in Adobe Campaign Standard. U kunt deze soorten publiek rechtstreeks beheren in de lijstweergave [!UICONTROL Audiences] , waar u een Adobe Experience Platform-publiek rechtstreeks vanuit de Adobe Campaign-interface kunt bewerken of maken
 
